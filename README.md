@@ -55,10 +55,20 @@ Pain point categories:
 
 ## Key Findings
 
+### Sentiment Distribution by Platform
+| source     | sentiment   |   count | percent   |
+|:-----------|:------------|--------:|:----------|
+| Google     | Negative    |       7 | 12.3%     |
+| Google     | Neutral     |       5 | 8.8%      |
+| Google     | Positive    |      45 | 78.9%     |
+| Reviews.io | Negative    |       8 | 5.4%      |
+| Reviews.io | Neutral     |      15 | 10.2%     |
+| Reviews.io | Positive    |     124 | 84.4%     |
+
 ### Sentiment Comparison
 - **Google reviews show over 2× higher negative sentiment** compared to Reviews.io  
   *(12.3% vs 5.4%)*
-- Reviews.io displays higher positive sentiment *(84.5% vs 78.9%)*
+- Reviews.io displays higher positive sentiment *(84.4% vs 78.9%)*
 
 **Interpretation:**  
 - Google reviews capture **candid, frustration-driven feedback**
