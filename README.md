@@ -1,7 +1,7 @@
-# Customer-Sentiment-Pain-Point-Analysis for id4me reviews
+# Customer-Sentiment-Pain-Point-Analysis for reviews
 
 
-### Google Reviews vs Reviews.io — iD4me
+### Google Reviews vs Reviews.io — Proptech scaleup
 
 ## Objective
 The goal of this analysis is to understand how customer sentiment and concerns differ across **public** (Google Reviews) and **solicited** (Reviews.io) feedback channels, and to identify actionable insights for improving **customer trust and retention**.
